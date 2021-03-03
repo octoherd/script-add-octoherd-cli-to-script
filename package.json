@@ -1,0 +1,29 @@
+{
+  "name": "@octoherd/script-add-octoherd-cli-to-script",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "0.0.0-developement",
+  "type": "module",
+  "description": "An octoherd script to upgrade current scripts to use the built-in CLI",
+  "bin": {
+    "octoherd-script-add-octoherd-cli-to-script": "./cli.js"
+  },
+  "exports": "./script.js",
+  "devDependencies": {},
+  "dependencies": {
+    "@octoherd/cli": "^2.7.1",
+    "octokit-plugin-create-pull-request": "^3.9.3"
+  },
+  "keywords": [
+    "octoherd-script"
+  ],
+  "author": "Gregor Martynus (https://twitter.com/gr2m)",
+  "repository": "https://github.com/octoherd/script-find-releases",
+  "license": "ISC",
+  "release": {
+    "branches": [
+      "main"
+    ]
+  }
+}
