@@ -19,7 +19,7 @@
     "octoherd-script"
   ],
   "author": "Gregor Martynus (https://twitter.com/gr2m)",
-  "repository": "https://github.com/octoherd/script-find-releases",
+  "repository": "github:octoherd/script-add-octoherd-cli-to-script",
   "license": "ISC",
   "release": {
     "branches": [
