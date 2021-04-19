@@ -65,7 +65,7 @@ run(script);
 
             pkg.devDependencies = {};
             pkg.dependencies = {
-              "@octoherd/cli": "^2.7.1",
+              "@octoherd/cli": "^3.3.0",
             };
 
             return JSON.stringify(pkg, null, 2) + "\n";
