@@ -13,7 +13,7 @@
   "devDependencies": {},
   "dependencies": {
     "@octoherd/cli": "^3.3.0",
-    "octokit-plugin-create-pull-request": "^3.9.3"
+    "octokit-plugin-create-pull-request": "^4.0.0"
   },
   "keywords": [
     "octoherd-script"
