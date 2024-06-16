@@ -20,10 +20,5 @@
   ],
   "author": "Gregor Martynus (https://twitter.com/gr2m)",
   "repository": "github:octoherd/script-add-octoherd-cli-to-script",
-  "license": "ISC",
-  "release": {
-    "branches": [
-      "main"
-    ]
-  }
+  "license": "ISC"
 }
